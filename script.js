@@ -1,7 +1,5 @@
-// Optional: You can add dynamic interactivity later
-//console.log("WhatsApp Store loaded successfully!");
 // 🔹 Replace this with your WhatsApp number (international format)
-const phoneNumber = "254712345678";
+const phoneNumber = "254706648650";
 
 // Find all CTA buttons
 const buttons = document.querySelectorAll(".cta-btn");
